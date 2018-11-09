@@ -1,8 +1,11 @@
-# ToDO List
+# ToDO List :clipboard:
 
-A new Flutter project.
+Do not forget your tasks.
 
-## Getting Started
+## Plugins
+- sqflite
+- intl
+- path_provider
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+
+![Buy](https://i.imgur.com/3zErVhW.png) ![Create task](https://i.imgur.com/f78jqW6.png) ![Update task](https://i.imgur.com/6dSTqVV.png)
